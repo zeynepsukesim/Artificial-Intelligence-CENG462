@@ -1,0 +1,6 @@
+print(UnInformedSearch("DFS","sample.txt"))
+None
+print(UnInformedSearch("BFS","sample.txt"))
+None
+print(UnInformedSearch("UCS","sample.txt"))
+None
